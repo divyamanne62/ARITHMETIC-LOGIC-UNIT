@@ -1,4 +1,4 @@
-# VLSI-Internship-Tasks
+# VLSI-Internship-Task 1
 
 # ARITHMETIC LOGIC UNIT(ALU)
 
